@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-# FastAPI MVC App
-=======
-# Fast-API-mvc
-
->>>>>>> 6ba7da4d6bd489c2fa2ecff1715557de680ffb78
 
 Este é um exemplo básico de aplicação FastAPI usando o padrão MVC (Model-View-Controller), com rotas que retornam JSON fixo (sem banco de dados).
 
@@ -41,3 +35,6 @@ uvicorn app.main:app --reload
 
 - GET /users/{id} → Retorna usuário pelo ID
 
+=======
+# FastAPI-mvc
+>>>>>>> ab6f43ee07f3e56f02c2cc662cc61123f605a2f0
